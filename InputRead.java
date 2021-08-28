@@ -17,7 +17,7 @@ class InputRead
         
         BufferedReader reader ;
         try {
-            reader = new BufferedReader(new FileReader("C:/Users/USER/Ledg/Ledg.txt")); //input file//
+            reader = new BufferedReader(new FileReader("Ledg.txt")); //input file//
             String line;
             while ((line = reader.readLine()) != null) 
             {
