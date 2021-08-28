@@ -1,10 +1,3 @@
-
-/**
- * Write a description of class InputRead here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
